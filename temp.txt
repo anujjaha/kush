@@ -1,0 +1,6 @@
+print_detail [ print_det ]
+lami_detail [ lami_det ]
+total_sheet [ tot_shet ]
+pulling [ p_ling ]
+paper_by [ paper_by ]
+paper By : [ p_by ]

@@ -1,0 +1,6 @@
+Host Name : ftp.cybera.in    
+OR    216.38.55.235
+
+User Name : accountftp@cybera.in
+
+PassWord : assdf42334sd

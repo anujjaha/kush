@@ -1,0 +1,23 @@
+.sf-sub-indicator {
+	position:		absolute;
+	display:		block;
+	right:			.75em;
+	top:			1.05em; /* IE6 only */
+	width:			10px;
+	height:			10px;
+	text-indent: 	-999em;
+	overflow:		hidden;
+	background:		url('../images/arrows-ffffff.png') no-repeat; /* 8-bit indexed alpha png. IE6 gets solid image only */
+}
+
+/*-------------------------======================== Start biswa css ===================================================---------------------------------------------*/
+#navigation-menu{ float:left; position:relative; width:100%; padding:0 0 8px 0; list-style:none; display:inline-block;}
+#navigation-menu li{ float:left; position:relative; width:100%; padding:0; list-style:none; display:inline-block;} 
+
+#navigation-menu li a{ font-family:Arial; color:#000000; font-weight:normal; font-size:12px; text-transform:capitalize; width:214px; height:30px; text-decoration:none; float:left; padding:0 0 0 20px; text-align: left; line-height:30px; margin-bottom:2px; background:#CCCCCC ;}
+
+#navigation-menu li a:hover{  color:#00567A;}
+#navigation-menu li a.active{ color:#00567A;}
+#navigation-menu li ul li a{ font-family:Arial; color:#0D95CF; font-weight:normal; font-size:12px; text-transform:capitalize; width:215px; height:30px; text-decoration:none; float:left; padding:0 0 0 20px; text-align: left; line-height:30px; margin-bottom:2px; background:#ececec ;}
+#navigation-menu li ul li a:hover{ background:#FFFFFF; color:#000000;}
+#navigation-menu li ul li a.active{  background:#FFFFFF;color:#000000;}
